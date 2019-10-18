@@ -1,2 +1,2 @@
-# NYU-Mini-Apps
-4 mini JavaScript applications. 
+# NYU Mini Apps
+Calendar, dice game, slide show and random image generator apps. 
